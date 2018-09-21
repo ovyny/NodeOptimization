@@ -1,6 +1,8 @@
 # NodeOptimization
 
 ## Code
+
+### For enhanced version, see index.js file
 ```js
 // const is better than let in this case because the identifier is not reassigned 
 let express = require('express');
