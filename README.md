@@ -1,7 +1,7 @@
 # NodeOptimization
 
 ## Code
-```
+```js
 // const is better than let in this case because the identifier is not reassigned 
 let express = require('express');
 let bodyParser = require('body-parser');
